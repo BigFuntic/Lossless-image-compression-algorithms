@@ -1,0 +1,10 @@
+outputDeflate.bmp
+outputHuffman.bmp
+outputJPEG.bmp
+outputLZW.bmp
+outputRLE.bmp
+/venv/
+/выходные данные/
+/восстановленные/
+/.idea/workspace.xml
+/.idea/libraries
